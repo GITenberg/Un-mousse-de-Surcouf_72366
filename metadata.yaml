@@ -1,0 +1,28 @@
+_repo: Un-mousse-de-Surcouf_72366
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maël, Pierre
+    alias: Mael, Pierre
+    gutenberg_agent_id: '54195'
+    url: http://www.gutenberg.org/2009/agents/54195
+description: ''
+gutenberg_issued: '2023-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72366'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33333081030492
+pgterms:marc905: 20231202024418mal
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bHachette, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Un mousse de Surcouf
+url: http://www.gutenberg.org/ebooks/72366
