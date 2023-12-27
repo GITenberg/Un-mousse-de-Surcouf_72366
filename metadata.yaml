@@ -1,5 +1,8 @@
 _repo: Un-mousse-de-Surcouf_72366
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72366-h/images/cover.jpg
 creator:
   author:
     agent_name: Maël, Pierre
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54195'
     url: http://www.gutenberg.org/2009/agents/54195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72366#Un-mousse-de-Surcouf
 gutenberg_issued: '2023-12-10'
 gutenberg_type: Text
 identifiers:
